@@ -1,0 +1,6 @@
+include ':OrderCenter'
+include ':UserCenter'
+include ':Provider'
+include ':BaseLibrary'
+include ':app'
+rootProject.name = "HRZG"
